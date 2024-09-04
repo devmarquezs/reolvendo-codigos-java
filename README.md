@@ -2,7 +2,8 @@
 
     ## Concatenando Dados
     ###
-    Descrição: Vamos receber dois dados diferentes do usuario e concatena-los em uma única string.
+    Descrição: Vamos receber dois dados diferentes do usuario e concatena-los em 
+    uma única string.
 
         - Manipulação de Stings(string)
         - Concatenação
@@ -10,7 +11,8 @@
 
     ## Repetição de Texto
     ###
-    Descrição: Agora vamos solicitar uma string e um número inteiro como entrada. Depois teremos que retornar a string repetida o números de vezes informado.
+    Descrição: Agora vamos solicitar uma string e um número inteiro como entrada. 
+    Depois teremos que retornar a string repetida o números de vezes informado.
 
         - Manipulação de Strings(string)
         - Numeros Inteiros
@@ -20,7 +22,8 @@
 
     ## Operações Matemáticas Simples
     ###
-    Descrição: Vamos solicitar como entrada dois numeros e depois vamos realizar uma operação simples entre eles.
+    Descrição: Vamos solicitar como entrada dois numeros e depois vamos 
+    realizar uma operação simples entre eles.
 
         - Operações Matematicas Basicas
         - Entrada de Dados
